@@ -1,4 +1,4 @@
->img src="iPhone templates cover page.png" alt="The Juice Screenshot"></img>
+>img src="https://github.com/gt-theamiri/TheJuice/blob/master/template.png" alt="The Juice Screenshot">
 # The Juice
 
 a walk trough flutter widget composition by implementing a minimal ui
