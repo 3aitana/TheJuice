@@ -1,10 +1,11 @@
-# ui01
+>img src="iPhone templates cover page.png" alt="The Juice Screenshot"></img>
+# The Juice
 
-A new Flutter project.
+a walk trough flutter widget composition by implementing a minimal ui
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+clone the project and run the "flutter craete ." and you ready to GO !!
 
 A few resources to get you started if this is your first Flutter project:
 
